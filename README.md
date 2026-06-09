@@ -1,7 +1,6 @@
 ![](pickuppump.png)
 
 #   PickupPump- a Vacuum Pickup Tool for SMD Components (In Progress)
-___
 
 ##  Brief
 
